@@ -1,0 +1,6 @@
+package FinalClinicaOdontologicaBackEnd.FinalClinicaOdontologicaBackEnd.albuquerque.service.iService;
+
+import FinalClinicaOdontologicaBackEnd.FinalClinicaOdontologicaBackEnd.albuquerque.dto.PacienteDto;
+
+public interface PacienteServiceInterface extends ServiceInterface<PacienteDto> {
+}

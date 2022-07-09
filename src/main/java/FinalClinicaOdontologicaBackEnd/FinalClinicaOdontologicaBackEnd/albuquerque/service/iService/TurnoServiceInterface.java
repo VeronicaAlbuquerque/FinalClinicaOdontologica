@@ -1,0 +1,6 @@
+package FinalClinicaOdontologicaBackEnd.FinalClinicaOdontologicaBackEnd.albuquerque.service.iService;
+
+import FinalClinicaOdontologicaBackEnd.FinalClinicaOdontologicaBackEnd.albuquerque.dto.TurnoDto;
+
+public interface TurnoServiceInterface extends ServiceInterface<TurnoDto>{
+}
